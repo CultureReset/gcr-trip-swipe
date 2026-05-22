@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0ea5e9"/>
+      <stop offset="100%" style="stop-color:#7c6af7"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <!-- Wave 1 -->
+  <path d="M0 300 Q64 260 128 300 Q192 340 256 300 Q320 260 384 300 Q448 340 512 300 L512 512 L0 512 Z" fill="rgba(255,255,255,0.18)"/>
+  <!-- Wave 2 -->
+  <path d="M0 340 Q64 300 128 340 Q192 380 256 340 Q320 300 384 340 Q448 380 512 340 L512 512 L0 512 Z" fill="rgba(255,255,255,0.12)"/>
+  <!-- Wave 3 -->
+  <path d="M0 380 Q64 350 128 380 Q192 410 256 380 Q320 350 384 380 Q448 410 512 380 L512 512 L0 512 Z" fill="rgba(255,255,255,0.22)"/>
+  <!-- GCR text -->
+  <text x="256" y="210" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="130" font-weight="800" fill="white" letter-spacing="-4">GCR</text>
+  <!-- Subtitle -->
+  <text x="256" y="272" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="36" font-weight="600" fill="rgba(255,255,255,0.85)" letter-spacing="6">TRIP SWIPE</text>
+</svg>
